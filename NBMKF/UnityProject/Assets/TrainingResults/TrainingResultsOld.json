@@ -1,0 +1,304 @@
+{
+    "configurationsResults": [
+        {
+            "configurationName": "0 Default",
+            "creatureResults": [
+                {
+                    "name": "0",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.583153247833252
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "1",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.8843375444412231
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.4359411895275116
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "3",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.6990636587142944
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "4",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.22347116470336915
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "configurationName": "1 RotationalFactor",
+            "creatureResults": [
+                {
+                    "name": "0",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.10832633823156357
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "1",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.2424216270446778
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.25480934977531435
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "3",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.9337208271026612
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "4",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.36432355642318728
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "configurationName": "2 LinearInputs",
+            "creatureResults": [
+                {
+                    "name": "0",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.476652055978775
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "1",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.2328907251358033
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.4993345737457276
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "3",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.34468311071395876
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "4",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.44214940071105959
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "configurationName": "3 CrossingOn",
+            "creatureResults": [
+                {
+                    "name": "0",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                4.182695388793945
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "1",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.2830452919006348
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.46493688225746157
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "3",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                4.0270676612854
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "4",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.24782149493694306
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "configurationName": "4 AlsoPunishX",
+            "creatureResults": [
+                {
+                    "name": "0",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.6695367097854614
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "1",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.238620400428772
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "2",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.5410863757133484
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "3",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                1.133460283279419
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "4",
+                    "batchResults": [
+                        {
+                            "index": 0,
+                            "wavesMaxDistances": [
+                                0.41763734817504885
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
